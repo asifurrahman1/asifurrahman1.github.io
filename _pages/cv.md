@@ -18,4 +18,4 @@ Other Documents
 ======
 - [GRE Score]()
 - [IELTS]()
-- [B.Sc. Transcritp]()
+- [B.Sc. Transcript]()
