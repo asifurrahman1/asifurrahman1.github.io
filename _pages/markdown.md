@@ -4,6 +4,7 @@ permalink: /projects/
 title: "Projects"
 author_profile: true
 ---
+<div>
 ## Adversarial Behavior Exclusion for Safe Reinforcement Learning
 - Implementation AdvEx-RL safety framework. [[Project Link](https://github.com/asifurrahman1/AdvEx-RL)]
 ## Pointwise Model Unstability Approximation, Data Mining Project
@@ -19,5 +20,5 @@ SciPy, Scikit-Learn, Pandas, PyTorch, Ray Tune. [[Project Link]()]
 - Analyze implicit bias in dataset using Genderize and Geocoder API [[Project Link](https://github.com/asifurrahman1/DM_project5_fairness_finding_implicit_bias_in_imdb_movie_and_scopus_dataset_genderize-geocoder)]
 ## Model Generalization and fine tuning 
 - Study and improve model generalization through fine tuning [[Project Link](https://github.com/asifurrahman1/DL_project_activation_observation_and_fine_tuning/tree/main)]
-
+</div>
 
