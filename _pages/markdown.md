@@ -7,14 +7,15 @@ author_profile: true
 <div>
 
 <table class="tg">
-<thead>
-  <tr>
-    <th class="tg-0lax"></th>
-    <th class="tg-0lax" colspan="2"><span style="font-weight:bold;font-style:normal">Adversarial Behavior Exclusion for Safe Reinforcement Learning</span><br><span style="font-weight:400;font-style:normal">Implementation AdvEx-RL safety framework.</span></th>
-    <th class="tg-0lax"></th>
-  </tr>
-</thead>
+<!-- <thead>
+ 
+</thead> -->
 <tbody>
+   <tr>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax" colspan="2"><span style="font-weight:bold;font-style:normal">Adversarial Behavior Exclusion for Safe Reinforcement Learning</span><br><span style="font-weight:400;font-style:normal">Implementation AdvEx-RL safety framework.</span></td>
+    <td class="tg-0lax"></td>
+  </tr>
   <tr>
     <td class="tg-0lax"></td>
     <td class="tg-0lax" colspan="2"><span style="font-weight:bold;font-style:normal">Pointwise Model Instability Approximation</span><br><span style="font-weight:400;font-style:normal">Implemented a RL based approximation model for identifying pointwise instability in machine learning models using </span><br><span style="font-weight:400;font-style:normal">SciPy, Scikit-Learn, Pandas, PyTorch, Ray Tune.</span></td>
