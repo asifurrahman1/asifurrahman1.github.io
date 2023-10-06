@@ -13,7 +13,7 @@ author_profile: true
 <tbody>
    <tr>
     <td class="tg-0lax"></td>
-    <td class="tg-0lax" colspan="2"><span style="font-weight:bold;font-style:normal">Adversarial Behavior Exclusion for Safe Reinforcement Learning</span><br><span style="font-weight:400;font-style:normal">Implementation AdvEx-RL safety framework.</span></td>
+    <td class="tg-0lax" colspan="2"><span style="font-weight:bold;font-style:normal"><b>Adversarial Behavior Exclusion for Safe Reinforcement Learning</b></span><br><span style="font-weight:400;font-style:normal">Implementation AdvEx-RL safety framework.</span></td>
     <td class="tg-0lax"></td>
   </tr>
   <tr>
