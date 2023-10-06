@@ -10,6 +10,8 @@ main:
     url: /portfolio/
   - title: "Publications"
     url: /publications/
+  - title: "Projects"
+    url: /projects/
   - title: "CV"
     url: /cv/
   # - title: "Blog Posts"
