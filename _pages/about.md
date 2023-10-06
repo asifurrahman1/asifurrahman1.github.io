@@ -7,7 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am currently enrolled in the Master's in Computer Science program at [Wake Forest University](https://github.com/academicpages/academicpages.github.io) in North Carolina, United States. I obtained my B.Sc. in Computer Science & Engineering from Rajshahi University of Engineering & Technology [(RUET)](https://github.com/academicpages/academicpages.github.io), Bangladesh, in 2016. Presently, I am employed as a research assistant under the guidance of Dr. Sarra Alqahtani. My research focuses on areas such as robustness and safety in Reinforcement Learning, Imitation Learning, explainable Reinforcement Learning (XRL), as well as the stability and fairness of Machine Learning Models.
+I am currently enrolled in the Master's in Computer Science program at [Wake Forest University](https://github.com/academicpages/academicpages.github.io) in North Carolina, United States. I obtained my B.Sc. in Computer Science & Engineering from Rajshahi University of Engineering & Technology [(RUET)](https://github.com/academicpages/academicpages.github.io), Bangladesh, in 2016. Presently, I am employed as a research assistant under the guidance of Dr. Sarra Alqahtani. 
+
+My research focuses on areas such as robustness and safety in Reinforcement Learning, Imitation Learning, explainable Reinforcement Learning (XRL), as well as the stability and fairness of Machine Learning Models.
 
 In addition to my research pursuits, I interned with Qorvo during the summer of 2023, gaining valuable industrial experience in Test Engineering and Software Development Engineering. I am a passionate researcher who constantly strives to contribute to the research community through rigorous investigation and innovative solutions. I also excel as an inspirational team player. Feel free to reach out to me, and I'd be delighted to share my previous experiences and explore potential future opportunities. 
 
