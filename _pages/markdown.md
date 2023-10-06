@@ -7,7 +7,6 @@ author_profile: true
 
 ## Adversarial Behavior Exclusion for Safe Reinforcement Learning
 - Implementation AdvEx-RL safety framework. [[Project Link](https://github.com/asifurrahman1/AdvEx-RL)]
-
 ## Pointwise Model Unstability Approximation, Data Mining Project
 - Implemented a RL based approximation model for identifying pointwise instability in machine learning models using
 SciPy, Scikit-Learn, Pandas, PyTorch, Ray Tune. [[Project Link]()]
