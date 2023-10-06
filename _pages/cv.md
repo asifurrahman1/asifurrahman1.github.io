@@ -16,6 +16,6 @@ Download Resume
 
 Other Documents
 ======
-[GRE Score]()
-[IELTS]()
-[B.Sc. Transcritp]()
+- [GRE Score]()
+- [IELTS]()
+- [B.Sc. Transcritp]()
