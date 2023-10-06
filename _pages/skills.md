@@ -1,10 +1,9 @@
 ---
 permalink: /skill/
-title: "About Me"
-excerpt: "About me"
+title: "Skillsssss"
+excerpt: "skill"
 author_profile: true
 redirect_from: 
   - /skill/
 ---
-Skills called here:
-======
+
