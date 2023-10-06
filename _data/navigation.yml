@@ -1,5 +1,7 @@
 # main links links
 main:
+  - title: "Education"
+    url: /Education/
   - title: "Skills"
     url: /skill/  
   - title: "Professional Experience"
