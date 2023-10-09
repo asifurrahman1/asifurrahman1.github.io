@@ -76,6 +76,7 @@ analytics:
   provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          : "G-MDNNV2DYS6"
+google_analytics: G-MDNNV2DYS6
 
 
 # Site Author
