@@ -4,6 +4,8 @@ main:
     url: /Education/
   - title: "Skills"
     url: /skill/  
+  - title: "Relevant Coursework"
+    url: /coursework/  
   - title: "Professional Experience"
     url: /professional/    
   - title: "Research"
