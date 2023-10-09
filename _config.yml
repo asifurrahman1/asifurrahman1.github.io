@@ -72,11 +72,11 @@ social:
 
 
 google_analytics: G-2YKCFM6SWQ
-# Analytics
-# analytics:
-#   provider               :  "google" # false (default), "google", "google-universal", "custom"
-#   google:
-#     tracking_id          : "G-2YKCFM6SWQ"
+Analytics
+analytics:
+  provider               :  "google" # false (default), "google", "google-universal", "custom"
+  google:
+    tracking_id          : "G-2YKCFM6SWQ"
 
 
 
