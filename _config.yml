@@ -71,12 +71,13 @@ social:
   links: # An array of links to social media profiles
 
 
+google_analytics: G-2YKCFM6SWQ
 # Analytics
-analytics:
-  provider               :  "google" # false (default), "google", "google-universal", "custom"
-  google:
-    tracking_id          : "G-MDNNV2DYS6"
-google_analytics: G-MDNNV2DYS6
+# analytics:
+#   provider               :  "google" # false (default), "google", "google-universal", "custom"
+#   google:
+#     tracking_id          : "G-2YKCFM6SWQ"
+
 
 
 # Site Author
