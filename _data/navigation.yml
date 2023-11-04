@@ -6,7 +6,7 @@ main:
     url: /skill/  
   - title: "Relevant Coursework"
     url: /coursework/  
-  - title: "Professional Experience"
+  - title: "Experience"
     url: /professional/    
   - title: "Research"
     url: /portfolio/
