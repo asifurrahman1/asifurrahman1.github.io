@@ -53,8 +53,10 @@ author_profile: true
 
     <tr>
     <td class="tg-0lax" colspan="2"><span style="font-weight:bold;font-style:normal"><b>Website Development</b></span><br><span style="font-style:normal">Designed and implemented the website for two RUET conferences: ICECTE and ICEEE, managing both development and deployment processes.</span></td>
-    <td class="tg-0lax"><a href="https://icecte.ruet.ac.bd/">[ICECTE]</a></td>
-    <td class="tg-0lax"><a href="http://iceee-ruet.org/">[ICEEE]</a></td>
+    <td class="tg-0lax"><a href="https://icecte.ruet.ac.bd/">[ICECTE]</a>
+    <br>
+    <a href="http://iceee-ruet.org/">[ICEEE]</a>
+    </td>
   </tr>
 
   
