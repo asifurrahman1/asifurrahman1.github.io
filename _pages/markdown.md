@@ -45,6 +45,19 @@ author_profile: true
     <td class="tg-0lax" colspan="2"><span style="font-weight:bold;font-style:normal"><b>Model Generalization and fine tuning </b></span><br><span style="font-style:normal">Study and improve model generalization through fine tuning</span></td>
     <td class="tg-0lax"><a href="https://github.com/asifurrahman1/DL_project_activation_observation_and_fine_tuning">[Project Link]</a></td>
   </tr>
+
+   <tr>
+    <td class="tg-0lax" colspan="2"><span style="font-weight:bold;font-style:normal"><b>Learn English iOS App </b></span><br><span style="font-style:normal">An capstone iOS application project developed during undergraduate study. </span></td>
+    <td class="tg-0lax"><a href="https://github.com/asifurrahman1/SpokenEnglishIOSv2">[Project Link]</a></td>
+  </tr>
+
+    <tr>
+    <td class="tg-0lax" colspan="2"><span style="font-weight:bold;font-style:normal"><b>Website Development</b></span><br><span style="font-style:normal">Designed and implemented the website for two RUET conferences: ICECTE and ICEEE, managing both development and deployment processes.</span></td>
+    <td class="tg-0lax"><a href="https://icecte.ruet.ac.bd/">[ICECTE]</a></td>
+    <td class="tg-0lax"><a href="http://iceee-ruet.org/">[ICEEE]</a></td>
+  </tr>
+
+  
   
 </tbody>
 </table>
