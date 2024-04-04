@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I completed my Master's in Computer Science in December 2023 from [Wake Forest University](https://www.wfu.edu/) in North Carolina, United States. Prior to this, I obtained my B.Sc. in Computer Science & Engineering from [Rajshahi University of Engineering & Technology (RUET)](https://ruet.ac.bd/) in Bangladesh in 2016. Presently, I am looking for positions in the software industry while also working as a voluntary research assistant under the supervision of Dr Sarra Alqahtani. 
+I completed my Master's in Computer Science in December 2023 from [Wake Forest University](https://www.wfu.edu/) in North Carolina, United States. Prior to this, I obtained my B.Sc. in Computer Science & Engineering from [Rajshahi University of Engineering & Technology (RUET)](https://ruet.ac.bd/) in Bangladesh in 2016. Presently, I am looking for positions in the software industry while also working as a voluntary research assistant under the supervision of Dr. Sarra Alqahtani to further excel in our research findings.
 
 My research focuses on areas such as robustness and safety in Reinforcement Learning (safe-RL), Imitation Learning, explainable Reinforcement Learning (XRL), as well as the stability and fairness of Machine Learning Models.
 
