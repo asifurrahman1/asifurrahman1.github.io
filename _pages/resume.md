@@ -1,7 +1,7 @@
 ---
 title: "Relevant Documents"
 layout: archive
-permalink: /cv/
+permalink: /resume/
 author_profile: true
 ---
 
