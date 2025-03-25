@@ -7,11 +7,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I completed my Master's in Computer Science in December 2023 from [Wake Forest University](https://www.wfu.edu/) in North Carolina, United States. Prior to this, I obtained my B.Sc. in Computer Science & Engineering from [Rajshahi University of Engineering & Technology (RUET)](https://ruet.ac.bd/) in Bangladesh in 2016. Presently, I am looking for positions in the software industry while also working as a voluntary research assistant under the supervision of Dr. Sarra Alqahtani to further excel in our research findings.
+I have over six years of programming education and two years of professional experience in Python, C, and C++. I have worked as a Test Engineer at Seeing Machines in Australia and at Qorvo in the USA. Additionally, I served as a Research Assistant at Wake Forest University, USA. Academically, I held the positions of Lecturer and later Assistant Professor at Rajshahi University of Engineering & Technology in Bangladesh.
 
-My research focuses on areas such as robustness and safety in Reinforcement Learning (safe-RL), Imitation Learning, explainable Reinforcement Learning (XRL), as well as the stability and fairness of Machine Learning Models.
+I hold a Master’s degree in Computer Science from [Wake Forest University](https://www.wfu.edu/), North Carolina, United States, where my research focused on Reinforcement Learning and Safe AI. My academic background and years of teaching experience have provided me with a strong foundation in machine learning, programming languages, and analytical problem-solving. I also earned a Bachelor’s degree in Computer Science and Engineering from [Rajshahi University of Engineering & Technology (RUET)](https://ruet.ac.bd/), with research focused on computer vision.
 
-In addition to my research pursuits, I interned with Qorvo during the summer of 2023, gaining valuable industrial experience in Test Engineering and Software Development Engineering. I am a passionate researcher who constantly strives to contribute to the research community through rigorous investigation and innovative solutions. I also excel as an inspirational team player. Feel free to reach out to me, and I'd be delighted to share my previous experiences and explore potential future opportunities. 
+I excel in process improvement and consistently seek simple, effective solutions to complex problems. I also have a year-long experience in managing and leading tasks. Feel free to reach out to me, and I'd be delighted to share my previous experiences and explore potential future opportunities. 
 
 <!-- Skills:
 ======
