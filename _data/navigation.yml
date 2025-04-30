@@ -12,9 +12,9 @@ main:
     url: /publications/
   - title: "Projects"
     url: /projects/
-  - title: "Relevant Coursework"
+  - title: "Coursework"
     url: /coursework/  
-  - title: "My Resume and Certifications"
+  - title: "Resume & Certifications"
     url: /cv/
   # - title: "Blog Posts"
   #   url: /year-archive/
