@@ -7,11 +7,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I have over six years of programming education and two years of professional experience in Python, C, and C++. I have worked as a Test Engineer at Seeing Machines in Australia and at Qorvo in the USA. Additionally, I served as a Research Assistant at Wake Forest University, USA. Academically, I held the positions of Lecturer and later Assistant Professor at Rajshahi University of Engineering & Technology in Bangladesh.
+I'm a versatile engineer with a strong foundation in software development, machine learning, and real-time system design. I bring over eight years of academic background in computer science and professional experience with Python, C, and C++, with a focus on building scalable, reliable, and efficient AI-driven systems.
 
-I hold a Master’s degree in Computer Science from [Wake Forest University](https://www.wfu.edu/), North Carolina, United States, where my research focused on Reinforcement Learning and Safe AI. My academic background and years of teaching experience have provided me with a strong foundation in machine learning, programming languages, and analytical problem-solving. I also earned a Bachelor’s degree in Computer Science and Engineering from [Rajshahi University of Engineering & Technology (RUET)](https://ruet.ac.bd/), with research focused on computer vision.
+Most recently, I worked as a Test Lead at Seeing Machines (Australia), where I managed end-to-end test planning, CI/CD automation, and product release strategies for real-time Driver Monitoring Systems. Prior to that, I contributed to automated semiconductor test development at Qorvo (USA) and conducted cutting-edge safe reinforcement learning research as a Graduate Research Assistant at Wake Forest University.
 
-I excel in process improvement and consistently seek simple, effective solutions to complex problems. I also have a year-long experience in managing and leading tasks. Feel free to reach out to me, and I'd be delighted to share my previous experiences and explore potential future opportunities. 
+I hold a Master’s in Computer Science from [Wake Forest University (WFU)](https://www.wfu.edu/), North Carolina, where I worked as a graduate research assistant. At WFU, my research focused on task-agnostic safe reinforcement learning and AI policy optimization. I earned a Bachelor’s degree in Computer Science and Engineering from Rajshahi University of Engineering & Technology (RUET), where my undergraduate research focused on computer vision. Later, I served as an Assistant Professor at RUET, where I taught software engineering and supervised student research in computer vision and AI.
+
+With experience in fast-paced, collaborative environments, I specialize in process improvement, system validation, and building robust machine learning pipelines. I enjoy exploring new technologies and turning ideas into real-world applications. Whether it's designing, developing, or fine-tuning deep learning models, building fault-tolerant systems, or optimizing deployment workflows—I’m always excited by the challenge of solving complex problems with simple, effective solutions. Feel free to reach out to me, and I'd be delighted to share my previous experiences and explore potential future opportunities. 
 
 <!-- Skills:
 ======
