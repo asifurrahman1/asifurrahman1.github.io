@@ -2,19 +2,19 @@
 main:
   - title: "Education"
     url: /Education/
-  - title: "Skills"
-    url: /skill/  
-  - title: "Relevant Coursework"
-    url: /coursework/  
   - title: "Experience"
-    url: /professional/    
+    url: /professional/
   - title: "Research"
     url: /portfolio/
+  - title: "Skills"
+    url: /skill/  
   - title: "Publications"
     url: /publications/
   - title: "Projects"
     url: /projects/
-  - title: "CV"
+  - title: "Relevant Coursework"
+    url: /coursework/  
+  - title: "My Resume and Certifications"
     url: /cv/
   # - title: "Blog Posts"
   #   url: /year-archive/
