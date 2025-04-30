@@ -4,8 +4,6 @@ layout: archive
 permalink: /cv/
 author_profile: true
 ---
-## 📄 Downloadable Documents
-
 ### 📄 Resume  
 [Click to View Resume (PDF)](https://asifurrahman1.github.io/Documents/Md_Asifur_Rahman_RESUME.pdf)
 
